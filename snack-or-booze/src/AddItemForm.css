@@ -1,0 +1,18 @@
+.add-item-form {
+    background-color: #232323d6;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.add-item-form input {
+    margin-bottom: 15px;
+}
+
+.add-item-form label {
+    font-weight: bold;
+}
+
+.add-item-form button {
+    margin-top: 20px;
+}
